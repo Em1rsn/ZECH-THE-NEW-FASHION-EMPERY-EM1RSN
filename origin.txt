@@ -1,0 +1,16 @@
+Uri: http://project5812462.tilda.ws/
+File Name: c:\Downloaded Web Sites\project5812462.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://project5812462.tilda.ws/zech_the_new_fashion_empery
+File Name: c:\Downloaded Web Sites\project5812462.tilda.ws\zech_the_new_fashion_empery.html
+Content Type: text/html
+
+Uri: http://project5812462.tilda.ws/tilda-blocks-page28908115.min.css?t=1657394192
+File Name: c:\Downloaded Web Sites\project5812462.tilda.ws\tilda-blocks-page28908115.min.css
+Content Type: text/css
+
+Uri: http://project5812462.tilda.ws/tilda-blocks-page28908115.min.js?t=1657394192
+File Name: c:\Downloaded Web Sites\project5812462.tilda.ws\tilda-blocks-page28908115.min.js
+Content Type: application/javascript
+
